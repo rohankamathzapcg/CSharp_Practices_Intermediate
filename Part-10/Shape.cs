@@ -8,9 +8,8 @@ namespace Part10
         public abstract void Draw();
 
         public void Copy()
-        {
-            Console.WriteLine("Select the shape");
-            
+        {  
+            Console.WriteLine("Select the shape");    
         }
     }
 }
