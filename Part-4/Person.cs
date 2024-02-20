@@ -19,14 +19,14 @@ namespace part4
 
         public Person(DateTime birth)
         {
-            Birthdate=Birthdate;
+            Birthdate = Birthdate;
         }
         public int Age
         {
             get
             {
                 var timeSpan = DateTime.Today - Birthdate;
-                var years=timeSpan.Days/365;
+                var years = timeSpan.Days / 365;
                 return years;
             }
         }
