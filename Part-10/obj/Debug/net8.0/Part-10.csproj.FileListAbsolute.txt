@@ -1,0 +1,15 @@
+C:\Users\RohanKamath\OneDrive - ZapCom Solutions Pvt. ltd\Documents\Training and Development\CSharp_Practices_Intermediate\Part-10\obj\Debug\net8.0\Part-10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RohanKamath\OneDrive - ZapCom Solutions Pvt. ltd\Documents\Training and Development\CSharp_Practices_Intermediate\Part-10\obj\Debug\net8.0\Part-10.AssemblyInfoInputs.cache
+C:\Users\RohanKamath\OneDrive - ZapCom Solutions Pvt. ltd\Documents\Training and Development\CSharp_Practices_Intermediate\Part-10\obj\Debug\net8.0\Part-10.AssemblyInfo.cs
+C:\Users\RohanKamath\OneDrive - ZapCom Solutions Pvt. ltd\Documents\Training and Development\CSharp_Practices_Intermediate\Part-10\obj\Debug\net8.0\Part-10.csproj.CoreCompileInputs.cache
+C:\Users\RohanKamath\OneDrive - ZapCom Solutions Pvt. ltd\Documents\Training and Development\CSharp_Practices_Intermediate\Part-10\obj\Debug\net8.0\Part-10.sourcelink.json
+C:\Users\RohanKamath\OneDrive - ZapCom Solutions Pvt. ltd\Documents\Training and Development\CSharp_Practices_Intermediate\Part-10\bin\Debug\net8.0\Part-10.exe
+C:\Users\RohanKamath\OneDrive - ZapCom Solutions Pvt. ltd\Documents\Training and Development\CSharp_Practices_Intermediate\Part-10\bin\Debug\net8.0\Part-10.deps.json
+C:\Users\RohanKamath\OneDrive - ZapCom Solutions Pvt. ltd\Documents\Training and Development\CSharp_Practices_Intermediate\Part-10\bin\Debug\net8.0\Part-10.runtimeconfig.json
+C:\Users\RohanKamath\OneDrive - ZapCom Solutions Pvt. ltd\Documents\Training and Development\CSharp_Practices_Intermediate\Part-10\bin\Debug\net8.0\Part-10.dll
+C:\Users\RohanKamath\OneDrive - ZapCom Solutions Pvt. ltd\Documents\Training and Development\CSharp_Practices_Intermediate\Part-10\bin\Debug\net8.0\Part-10.pdb
+C:\Users\RohanKamath\OneDrive - ZapCom Solutions Pvt. ltd\Documents\Training and Development\CSharp_Practices_Intermediate\Part-10\obj\Debug\net8.0\Part-10.dll
+C:\Users\RohanKamath\OneDrive - ZapCom Solutions Pvt. ltd\Documents\Training and Development\CSharp_Practices_Intermediate\Part-10\obj\Debug\net8.0\refint\Part-10.dll
+C:\Users\RohanKamath\OneDrive - ZapCom Solutions Pvt. ltd\Documents\Training and Development\CSharp_Practices_Intermediate\Part-10\obj\Debug\net8.0\Part-10.pdb
+C:\Users\RohanKamath\OneDrive - ZapCom Solutions Pvt. ltd\Documents\Training and Development\CSharp_Practices_Intermediate\Part-10\obj\Debug\net8.0\Part-10.genruntimeconfig.cache
+C:\Users\RohanKamath\OneDrive - ZapCom Solutions Pvt. ltd\Documents\Training and Development\CSharp_Practices_Intermediate\Part-10\obj\Debug\net8.0\ref\Part-10.dll
