@@ -8,5 +8,16 @@ namespace Part2
             this.x=x;
             this.y=y;
         }
+
+        public void Move(int x,int y)
+        {
+            this.x=x;
+            this.y=y;
+        }
+
+        public void Move(Point newLocation)
+        {
+            Move(newLocation.x,newLocation.y)
+        }
     }
 }
